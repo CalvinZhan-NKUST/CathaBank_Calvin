@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.test.cathabank.app-mergeDebugResources-62:/layout/activity_main.xml",
+        "source": "com.test.cathabank.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.test.cathabank.app-mergeDebugResources-62:/layout/fragment_sort_menu.xml",
+        "source": "com.test.cathabank.app-main-65:/layout/fragment_sort_menu.xml"
+    },
+    {
+        "merged": "com.test.cathabank.app-mergeDebugResources-62:/layout/stock_layout.xml",
+        "source": "com.test.cathabank.app-main-65:/layout/stock_layout.xml"
+    }
+]

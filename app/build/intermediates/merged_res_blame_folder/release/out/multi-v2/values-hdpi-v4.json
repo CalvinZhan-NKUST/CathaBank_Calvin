@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.test.cathabank.app-mergeReleaseResources-57:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/zhanyochi/.gradle/caches/transforms-3/eba7de338642153a9f893f28055c8bed/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

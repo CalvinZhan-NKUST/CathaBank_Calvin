@@ -1,0 +1,77 @@
+                                                                   
+
+    
+                 
+                           
+                                                            
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp" android:tag="layout/item_stock_day_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"         />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_2"         />
+
+        <TextView
+            android:id="@+id/tradeVolume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_3"                />
+
+        <TextView
+            android:id="@+id/tradeValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_4"               />
+
+        <TextView
+            android:id="@+id/openingPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_5"                 />
+
+        <TextView
+            android:id="@+id/highestPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_6"                 />
+
+        <TextView
+            android:id="@+id/lowestPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_7"                />
+
+        <TextView
+            android:id="@+id/closingPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_8"                 />
+
+        <TextView
+            android:id="@+id/change"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_9"           />
+
+        <TextView
+            android:id="@+id/transaction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_10"               />
+
+    </LinearLayout>
+
+         
