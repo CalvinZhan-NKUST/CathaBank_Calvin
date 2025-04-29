@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CathaBank" parent="Theme.AppCompat.DayNight">
+        <!-- 主色調顏色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- 背景顏色 -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <!-- 狀態欄顏色 -->
+        <item name="android:statusBarColor">@color/statusBarColor</item>
+        <!-- 導航欄顏色 -->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+    </style>
+</resources>
